@@ -16,6 +16,11 @@
     "test:coverage": "yarn test --coverage",
     "test:report": "codecov"
   },
+  "files": [
+    "dist/*",
+    "docs/*",
+    "src/*"
+  ],
   "keywords": [
     "jest",
     "expect",
